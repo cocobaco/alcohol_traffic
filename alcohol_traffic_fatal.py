@@ -5,7 +5,7 @@ Created on Thu Oct  8 21:17:01 2020
 @author: rop
 """
 
-# Does alcohol drinking increase homicide rate and traffic death rate?
+# Does alcohol drinking increase traffic death rate?
 
 
 import pandas as pd
